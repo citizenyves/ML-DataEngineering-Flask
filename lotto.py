@@ -1,3 +1,5 @@
+# 동행복권 API로 역대 로또 회차별 당첨번호 데이터를 가져온 
+
 # API로 데이터 저장하기
 import os, sys
 import sqlite3
