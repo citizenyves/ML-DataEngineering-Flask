@@ -1,3 +1,5 @@
+# 웹서버에서 구동할 머신러닝 분류모델링 파일입니다.
+
 # 데이터 전처리
 import pandas as pd
 import numpy as np
