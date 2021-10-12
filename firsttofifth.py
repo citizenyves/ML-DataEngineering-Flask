@@ -1,3 +1,5 @@
+# 동행복권에서 제공하는 CSV파일로 역대 로또 회차별/등수별 당첨자수, 당첨금액 데이터를 가져온 파일입니다.
+
 # CSV파일 데이터를 DB에 저장하기
 import os, sys
 import csv, sqlite3
